@@ -1,6 +1,6 @@
 # Mnist_digit-recognizer
 
-### A simple CNN model with 98% accuracy
+A simple CNN model with 98% accuracy
 
 
 
